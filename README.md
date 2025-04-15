@@ -4,12 +4,6 @@ A simple and interactive **Tic Tac Toe** game built using **React**. The game al
 
 ---
 
-## 🚀 Live Demo
-
-> Coming soon...
-
----
-
 ## 📸 Screenshot
 
 ![screenshot](./screenshot.png) <!-- Replace with actual screenshot path if available -->
