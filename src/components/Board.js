@@ -22,10 +22,10 @@ const Board = () => {
 
   const winner = calculateWinner(squares);
   const status = winner
-    ? `🎉 Winner: ${winner}`
+    ? `Winner: ${winner}`
     : squares.includes(null)
-    ? `Next Player: ${isXTurn ? "X" : "O"}`
-    : "😅 It's a Draw!";
+    ? `Next player: ${isXTurn ? "X" : "O"}`
+    : "Tie";
 
   return (
     <>
